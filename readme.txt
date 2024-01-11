@@ -5,6 +5,13 @@
 All the code is in `Config.java` and can be executed using the executable JAR file `assignment7executable.jar`.
 
 **Login Authentication:**
+# JDBC-CLI-Application
+
+**README for Yelp CLI Application**
+
+All the code is in `Config.java` and can be executed using the executable JAR file `assignment7executable.jar`.
+
+**Login Authentication:**
 
 Upon execution, the login method prompts the user to enter a valid `user_id` from the `dbo.user_yelp` relation.
 If an invalid `user_id` is entered, the user is prompted to re-enter until a valid `user_id` is provided.
