@@ -1,7 +1,3 @@
-# JDBC-CLI-Application
-
-**README for Yelp CLI Application**
-
 All the code is in `Config.java` and can be executed using the executable JAR file `assignment7executable.jar`.
 
 **Login Authentication:**
