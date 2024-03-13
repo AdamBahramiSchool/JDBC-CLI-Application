@@ -19,9 +19,9 @@ import java.sql.PreparedStatement;
 
 public class Config {
 	private static Connection getConnection() throws SQLException {
-		String url="jdbc:sqlserver://cypress.csil.sfu.ca;databaseName=afb2354";
-		String usernameString="s_afb2";
-		String passwordString="ey3Pt4g3LFN3gGbe";
+		String url="jdbc:sqlserver://cypress.csil.sfu.ca;databaseName=____";
+		String usernameString="___";
+		String passwordString="___";
 		return DriverManager.getConnection(url, usernameString, passwordString);
 	}
 	
