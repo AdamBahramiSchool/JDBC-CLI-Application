@@ -1,6 +1,3 @@
-All the code is in `Config.java` and can be executed using the executable JAR file `assignment7executable.jar`.
-
-**Login Authentication:**
 # JDBC-CLI-Application
 
 **README for Yelp CLI Application**
@@ -50,3 +47,4 @@ Displays the generated `review_id` for potential future searches.
 **Option 5 - Exit Program:**
 
 Typing 5 exits the menu loop, allowing the user to gracefully terminate the program.
+
